@@ -1,7 +1,6 @@
 ({
   mainConfigFile: '../requirejs.conf.js',
   paths: {
-    jquery: 'lib/jquery/jquery.min',
     almond: 'lib/almond/almond'
   },
   baseUrl: '..',
